@@ -5,7 +5,8 @@ manager: Kenneth
 coach: Grace
 
 members:
-- Linda
-- William
-- David
-- George
+  - Linda
+  - William
+  - David
+  - George
+  - Tyler
